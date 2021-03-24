@@ -3,12 +3,12 @@
 The objective of this project is to find the regression model that best estimates the price of a diamond based on the following characteristics:
 
 - Carat: is the weight of the stone.
--Color: the degree of absence of color.
--Cut: the proportions of the diamond.
--Clarity: the presence or absence of inclusions in the diamond.
--Depth: height of the diamond.
--Table: width of the top face.
--x, y, z: dimensional metrics.
+- Color: the degree of absence of color.
+- Cut: the proportions of the diamond.
+- Clarity: the presence or absence of inclusions in the diamond.
+- Depth: height of the diamond.
+- Table: width of the top face.
+- x, y, z: dimensional metrics.
 
 ![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
 
