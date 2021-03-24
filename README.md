@@ -14,6 +14,16 @@ The objective of this project is to find the regression model that best estimate
 
 The dataset is made up of **40,455** entries that relates these characteristics and the price for these specific diamonds. The objective is to use machine learning models from SciKitLearn and Lightgmb to predict the price of another dataset where the price column is missig.
 
+### :computer: **Technology stack**
+
+	- Python
+    - Pandas
+    - Matplotlib
+    - Seaborn
+    - Numpy
+    - Scikit-learn
+	- Lightgbm
+
 
 
 ## **Formatting**
