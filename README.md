@@ -2,7 +2,7 @@
 
 The objective of this project is to find the regression model that best estimates the price of a diamond based on the following characteristics:
 
--Carat: is the weight of the stone.
+- Carat: is the weight of the stone.
 -Color: the degree of absence of color.
 -Cut: the proportions of the diamond.
 -Clarity: the presence or absence of inclusions in the diamond.
