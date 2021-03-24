@@ -12,22 +12,7 @@ The objective of this project is to find the regression model that best estimate
 
 ![](images/diamond_anatomy.jpg)
 
----
-
-
-## **First Steps**
-1. Clone github
-2. Update gitignore:
-# iOS
-.DS_Store
-
-# PyCharm
-.idea
-
-3. Hide credentials
-4. Add some code
-5. Update readme
-6. Fix the code
+The dataset is made up of **40,455** entries that relates these characteristics and the price for these specific diamonds. The objective is to use machine learning models from SciKitLearn and Lightgmb to predict the price of another dataset where the price column is missig.
 
 
 
