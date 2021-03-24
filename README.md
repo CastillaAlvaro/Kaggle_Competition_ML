@@ -30,7 +30,7 @@ The dataset is made up of **40,455** entries that relates these characteristics 
 In order to decide which model would be the best to solve this problem, I selected several models (LGBMRegressor, RandomForestRegressor, GradientBoostingRegressor,  DecisionTreeRegressor,
 LinearRegression,  Ridge,  Lasso) to verify which one was the one with the best performance in terms of an error metric called ‘mean squared error’. These are the results:
 
-![](images/RMSE.jpg)
+![](images/RMSE.png)
 
 ## **Start writing ASAP:**
 *Last but not least, by writing your README soon you give yourself some pretty significant advantages. Most importantly, you’re giving yourself a chance to think through the project without the overhead of having to change code every time you change your mind about how something should be organized or what should be included.*
