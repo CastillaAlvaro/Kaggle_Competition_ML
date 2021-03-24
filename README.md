@@ -10,7 +10,7 @@ The objective of this project is to find the regression model that best estimate
 - Table: width of the top face.
 - x, y, z: dimensional metrics.
 
-![](diamond_anatomy.jpg)
+![](images/diamond_anatomy.jpg)
 
 ---
 
